@@ -97,3 +97,7 @@ A API irá retornar o nome de cada aluno, seguido por sua nota média entre toda
 **GET | localhost:8080/boletim/aprovados**
 
 A API irá retornar um vetor com os nomes dos alunos aprovados.
+
+## Considerações finais
+
+### Como o próprio desafio tem o intuito de ser simples e objetivo, desenvolvi essa API sem muita complexidade, com apenas o que pede o desafio.
